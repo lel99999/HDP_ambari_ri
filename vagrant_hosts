@@ -1,3 +1,6 @@
+[mit]
+mit01 ansible_host=192.168.60.152
+
 [windows]
 winAD01 ansible_host=192.168.60.151
 
